@@ -4,6 +4,7 @@
 2. Fill in .env
 3. Put a dump file (\*.sql) into mysql directory.(if you need)
 4. Exec `docker-compose up -d`
+5. Access http://localhost:60600
 
 You may need to `chown -R www-data:www-data ./wp-content`.
 
